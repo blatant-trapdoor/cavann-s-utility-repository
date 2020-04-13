@@ -4,9 +4,15 @@
 
 
 <br>
- -Underground House
+
+ - Underground House
+
 </br>
+
 <br>
--"Nether Lab"
- <p> Build a lab to 'study' the Nether. </p>
+
+- "Nether Lab"
+
+<p> Build a lab to 'study' the Nether. </p>
+
 </br>
