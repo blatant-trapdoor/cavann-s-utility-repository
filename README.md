@@ -43,6 +43,24 @@
 
 
 
+<br>
+
+ - [Jupyter](https://jupyter.org/)
+
+<p> Jupyter is a very complex open-source software. </p>
+
+</br>
+
+
+
+<br>
+
+ - [Jupyter Notebook](https://jupyter.org/)
+ 
+ <p> Jupyter Notebook is a tool by Jupyter for creating complex journals capable of inline programming, and much more. </p>
+
+</br>
+
 ---
 
 
