@@ -13,10 +13,6 @@
 
 - "Nether Lab"
 
-</br>
-
-<br>
-
 <p> Build a lab to 'study' the Nether. </p>
 
 </br>
