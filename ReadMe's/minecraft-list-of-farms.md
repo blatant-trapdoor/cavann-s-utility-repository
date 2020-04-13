@@ -1,5 +1,5 @@
-# List of Farms Types
-## This list is in no specific order
+# List of Farms Types 
+*This list is in no specific order*
 
 ### Plant Farms
 
