@@ -6,4 +6,5 @@
 
  - Example
  - Underground House
- - Stranger Things 
+ - "Nether Lab"
+ <p> Build a lab to 'study' the Nether. </p>
