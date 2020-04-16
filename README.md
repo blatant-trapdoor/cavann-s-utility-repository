@@ -2,7 +2,7 @@
 
 <br>
 
-###  - [Educational YouTube Channels](https://github.com/blatant-trapdoor/cavann-s-utility-repository/blob/master/ReadMe's/educational-youtube-channels-(programming).md)
+###  - [Educational YouTube Channels (Programming)](https://github.com/blatant-trapdoor/cavann-s-utility-repository/blob/master/ReadMe's/educational-youtube-channels-(programming).md)
 
 </br>
 
