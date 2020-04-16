@@ -1,23 +1,9 @@
 # Stuff
 
 
-### Educational YouTube Channels:
-
-
-
-<br>
-
- - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
-
-<p> Mainly does web development tutorials, but has a plethora of different guides </p>
-
-</br>
-
-
+### [Educational YouTube Channels](https://github.com/blatant-trapdoor/cavann-s-utility-repository/blob/master/ReadMe's/educational-youtube-channels-(programming).md)
 
 ---
-
-
 
 ### Utility Links:
 
