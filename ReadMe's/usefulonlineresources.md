@@ -1,4 +1,4 @@
-#Useful Online Resources
+# Useful Online Resources
 
 <br>
 
@@ -7,3 +7,5 @@
 <p> Github dedicated to lists, of lists, of lists, of lists, of lists. It's awesome. </p>
 
 </br>
+
+---
