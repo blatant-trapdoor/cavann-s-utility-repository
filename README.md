@@ -3,6 +3,11 @@
 
 ### [Educational YouTube Channels](https://github.com/blatant-trapdoor/cavann-s-utility-repository/blob/master/ReadMe's/educational-youtube-channels-(programming).md)
 
+### [Useful Online Resources]()
+
+### [Useful Software (FREE)]()
+### [Useful Software (FREEMIUM)]()
+### [Useful Software (PAID)]()
 ---
 
 ### Utility Links:
