@@ -2,23 +2,23 @@
 
 <br>
 
-### [Educational YouTube Channels](https://github.com/blatant-trapdoor/cavann-s-utility-repository/blob/master/ReadMe's/educational-youtube-channels-(programming).md)
+###  - [Educational YouTube Channels](https://github.com/blatant-trapdoor/cavann-s-utility-repository/blob/master/ReadMe's/educational-youtube-channels-(programming).md)
 
 </br>
 
 <br>
 
-### [Useful Online Resources]()
+###  - [Useful Online Resources]()
 
 </br>
 
 <br>
 
-### [Useful Software (FREE)]()
+###  - [Useful Software (FREE)]()
 
-### [Useful Software (FREEMIUM)]()
+###  - [Useful Software (FREEMIUM)]()
 
-### [Useful Software (PAID)]()
+###  - [Useful Software (PAID)]()
 
 </br>
 
